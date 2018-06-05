@@ -37,6 +37,7 @@
 #define MODE_WAIT 1010
 #define MODE_PROGRAM 1011
 #define MODE_PARTY 1012
+#define MODE_BLIND 1013
 
 #define I2C_LCD_ADDR 0x27
 
